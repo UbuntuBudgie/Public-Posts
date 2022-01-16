@@ -1,2 +1,2 @@
 # publicposts
-test repo for nikola
+This repo is used for posts made by guest writers
