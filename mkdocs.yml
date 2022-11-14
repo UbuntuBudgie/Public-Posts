@@ -1,3 +1,6 @@
 site_name: Ubuntu Budgie Documentation
 theme:
   name: material
+pages:
+- Home: 'index.md'
+- About: 'about.md'
