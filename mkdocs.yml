@@ -5,3 +5,4 @@ nav:
 - Home: 'index.md'
 - About: 'about.md'
 repo_url: https://github.com/UbuntuBudgie/UBDocs
+repo_name: Ubuntu Budgie Docs
