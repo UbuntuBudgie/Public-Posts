@@ -1,9 +1,9 @@
 ---
 sidebar_position: 6
 ---
-# Preparing the environment for editing Documentation
+# Setting up Github account
 
-To start with editing the documentation, the first thing that you need to do is to have registered Github Account. The repository for the documentation is stored on Github, thus the Github account is necessary to edit the documentation either via GitHub website or via code editor after fetching repo files.
+To start with editing the documentation, the first thing that you need to do is to have registered Github account. The repository for the documentation is stored on Github, thus the Github account is necessary to edit the documentation either via GitHub website or via code editor after fetching repo files.
 
 1. Follow the guide from official Github Docs on how to setup Github. The section called "[Setting up Git&#34;](https://docs.github.com/en/get-started/quickstart/set-up-git "Setting up Git guide") contains what it needs to be done to setup your Github account details on your computer.
 2. Next step is to generate SSH key. The SSH key is used to securely connect to GitHub and download necessary files from repos. Follow the steps outlined in "[Generating a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent "Generating SSH key")"
