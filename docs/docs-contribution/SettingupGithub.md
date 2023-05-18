@@ -27,7 +27,7 @@ $ git remote -v
 > origin  https://github.com/UbuntuBudgie/UBDocs.git (push)
 ```
 
-The default branch that the pull happens is master branch. In case there are some changes to the branch, this documentation will be updated to reflect that. 
+The default branch that the pull happens is master branch. In case there are some changes to the branch, this documentation will be updated to reflect that.
 
 After adding the repo, the next thing you need to do is to **pull**   repo from Github. There are various ways on how you can do this, and it depends on which operating system you are using.
 
@@ -37,6 +37,10 @@ You can use both terminal/command prompt or GUI clients to **stage**, **commit**
 
 In case you followed "Setting up Git" you have probably installed Github Desktop. While this is good program in case you have Windows or Mac OS, it is not available for Linux.
 
+Here you can find the list of GUI programs to ease your Git and GitHub usage.
+
+https://git-scm.com/downloads/guis
+
 To install git on Ubuntu use
 
 ```
@@ -45,6 +49,15 @@ sudo apt-get install git
 
 In case you want to use GUI, here is the programs we recommend.
 
-
-
 Whether you want to use terminal or GUI is up to you. You should probably learn to use git from terminal, to understand the basics on how it works, thus continue using it or switch to GUI program in case you see it being faster and easier for you.
+
+# Other options
+
+While the presented option is the default one used in software development, we recognize that a lot of our users are also non-developers who would like to contribute to the documentation, providing useful tutorial for both newcomers and other users.
+
+In that sense, we have devised two alternative options on making contribution even easier.
+
+## Option 1: Using git and VSCode
+
+
+## Option 2: Using Stackedit
