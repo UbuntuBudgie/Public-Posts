@@ -59,5 +59,12 @@ In that sense, we have devised two alternative options on making contribution ev
 
 ## Option 1: Using git and VSCode
 
+The prerequisite for this option is to have Git installed either on your Linux distribution (We are assuming for the needs of this tutorial that it is Ubuntu, but the same applies for other distributions, with only difference being the commands for installing git).
+
+After you've installed git, the next thing that you need to do is open your Terminal. For Windows users, this will be called Git Bash/CMD.
+
+First, pull the latest changes from UBDocs repository.
+
+After that go to /docs/ directory. This is the central directory that holds all the documentation files. To add new doc, user your favorite markdown editor.
 
 ## Option 2: Using Stackedit
