@@ -65,6 +65,20 @@ After you've installed git, the next thing that you need to do is open your Term
 
 First, pull the latest changes from UBDocs repository.
 
-After that go to /docs/ directory. This is the central directory that holds all the documentation files. To add new doc, user your favorite markdown editor.
+After that go to /docs/ directory. This is the central directory that holds all the documentation files. To add new doc, open up your favorite markdown editor and load files or directory with the files in it. 
+
+We recommend using VSCode due to ease of use *(Visual Studio Code) but if you have already an editor that works for you, the choice is up to you.
+
+Note: The following extensions for VSCode are not necessary, but they will allow you to edit markdown files as if you were using WYSIWYG editor, without the need to know markdown and how it works. However, we also recommend to test writing in just markdown so that you can learn how it works in case at some point the extensions do not work, or you switch to an Markdown editor that does not have them.
+
+Install the following extensions: Markdown All in One - Yu Zhang
+
+Markdown Editor - zaaack
+
+Office Viewer - Weijan Chen
+
+After installing, reload VSCode. Once you open a file, or directory you will see that the default editor when you open markdown files has been replaced with WYSIWYG editor.
+
+The editor options are similar to forum options or options you see while using Office programs.
 
 ## Option 2: Using Stackedit
