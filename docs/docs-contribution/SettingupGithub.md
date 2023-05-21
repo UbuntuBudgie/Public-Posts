@@ -65,20 +65,30 @@ After you've installed git, the next thing that you need to do is open your Term
 
 First, pull the latest changes from UBDocs repository.
 
-After that go to /docs/ directory. This is the central directory that holds all the documentation files. To add new doc, open up your favorite markdown editor and load files or directory with the files in it. 
+After that go to /docs/ directory. This is the central directory that holds all the documentation files. To add new doc, open up your favorite markdown editor and load files or directory with the files in it.
 
 We recommend using VSCode due to ease of use *(Visual Studio Code) but if you have already an editor that works for you, the choice is up to you.
 
 Note: The following extensions for VSCode are not necessary, but they will allow you to edit markdown files as if you were using WYSIWYG editor, without the need to know markdown and how it works. However, we also recommend to test writing in just markdown so that you can learn how it works in case at some point the extensions do not work, or you switch to an Markdown editor that does not have them.
 
-Install the following extensions: Markdown All in One - Yu Zhang
+Install the following extensions: 
 
-Markdown Editor - zaaack
+**Markdown All in One** - Yu Zhang
 
-Office Viewer - Weijan Chen
+**Markdown Editor** - zaaack
 
-After installing, reload VSCode. Once you open a file, or directory you will see that the default editor when you open markdown files has been replaced with WYSIWYG editor.
+**Office Viewer** - Weijan Chen
 
-The editor options are similar to forum options or options you see while using Office programs.
+After installing, reload VSCode. Once you open a file, or directory, you will see that the default editor when you open markdown files has been replaced with WYSIWYG editor.
+
+The editor options are similar to forum editor options or options you see while using Office programs.
 
 ## Option 2: Using Stackedit
+
+In case that you would like to edit everything online and have the option to contribute to the docs on the fly we recommend using Stackedit as second option. 
+
+[Stackedit.io](https://stackedit.io)
+
+Stackedit is online markdown editor that you can use to write markdown docs with WYSIWYG support. The only thing you need to do to start editing UBDocs is to connect your github account with Stackedit and after that put the link to the repository you want to have to load into editor. In our case, we will use the same link we used for fetching repo.
+
+[https://github.com/UbuntuBudgie/UBDocs]()
