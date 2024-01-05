@@ -33,7 +33,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Welcome to Ubuntu Budgies Docs />">
+      description="Welcome to Ubuntu Budgies Docs">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
