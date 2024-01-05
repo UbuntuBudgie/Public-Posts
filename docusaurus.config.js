@@ -11,6 +11,7 @@ const config = {
   title: 'Ubuntu Budgies Docs',
   tagline: 'Simplicity & Elegance with documentation',
   favicon: 'img/favicon.ico',
+  description: 'Ubuntu Budgie Documentation Center',
 
   // Set the production url of your site here
   url: 'https://docs.ubuntubudgie.org',
