@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
+            Ubuntu Budgie Tutorial in 5 mins (or maybe less) ⏱️
           </Link>
         </div>
       </div>
