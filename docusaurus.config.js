@@ -50,7 +50,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
+      // Replace with your project's social cards
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Ubuntu Budgie',
