@@ -120,8 +120,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Website',
+                to: 'https://ubuntubudgie.org',
               },
               {
                 label: 'GitHub',
